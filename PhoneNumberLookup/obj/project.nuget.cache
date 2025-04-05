@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qF1BNeX4SVc=",
+  "dgSpecHash": "axMyF6zrM6OGWVcNNwHxC4eRKY+f/Ms/M6Oyck8RNj30LrFRmoVIWASe5PplcgYLwC+dsU+kieh/FJt3sEzsOA==",
   "success": true,
   "projectFilePath": "/Users/lqzone/Documents/tare-project/CallerLocalizer-dotnet/PhoneNumberLookup/PhoneNumberLookup.csproj",
   "expectedPackageFiles": [
-    "/Users/lqzone/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/Users/lqzone/.nuget/packages/microsoft.aspnetcore.openapi/8.0.14/microsoft.aspnetcore.openapi.8.0.14.nupkg.sha512",
     "/Users/lqzone/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/lqzone/.nuget/packages/microsoft.openapi/1.6.23/microsoft.openapi.1.6.23.nupkg.sha512",
     "/Users/lqzone/.nuget/packages/swashbuckle.aspnetcore/8.1.0/swashbuckle.aspnetcore.8.1.0.nupkg.sha512",

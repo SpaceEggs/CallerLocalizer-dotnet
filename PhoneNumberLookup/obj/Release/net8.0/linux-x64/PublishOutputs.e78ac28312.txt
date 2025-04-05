@@ -1,0 +1,13 @@
+/Users/lqzone/Documents/tare-project/CallerLocalizer-dotnet/PhoneNumberLookup/bin/Release/net8.0/linux-x64/publish/PhoneNumberLookup
+/Users/lqzone/Documents/tare-project/CallerLocalizer-dotnet/PhoneNumberLookup/bin/Release/net8.0/linux-x64/publish/appsettings.Development.json
+/Users/lqzone/Documents/tare-project/CallerLocalizer-dotnet/PhoneNumberLookup/bin/Release/net8.0/linux-x64/publish/appsettings.json
+/Users/lqzone/Documents/tare-project/CallerLocalizer-dotnet/PhoneNumberLookup/bin/Release/net8.0/linux-x64/publish/PhoneNumber.csv
+/Users/lqzone/Documents/tare-project/CallerLocalizer-dotnet/PhoneNumberLookup/bin/Release/net8.0/linux-x64/publish/PhoneNumberLookup.dll
+/Users/lqzone/Documents/tare-project/CallerLocalizer-dotnet/PhoneNumberLookup/bin/Release/net8.0/linux-x64/publish/PhoneNumberLookup.deps.json
+/Users/lqzone/Documents/tare-project/CallerLocalizer-dotnet/PhoneNumberLookup/bin/Release/net8.0/linux-x64/publish/PhoneNumberLookup.runtimeconfig.json
+/Users/lqzone/Documents/tare-project/CallerLocalizer-dotnet/PhoneNumberLookup/bin/Release/net8.0/linux-x64/publish/PhoneNumberLookup.pdb
+/Users/lqzone/Documents/tare-project/CallerLocalizer-dotnet/PhoneNumberLookup/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/lqzone/Documents/tare-project/CallerLocalizer-dotnet/PhoneNumberLookup/bin/Release/net8.0/linux-x64/publish/Microsoft.OpenApi.dll
+/Users/lqzone/Documents/tare-project/CallerLocalizer-dotnet/PhoneNumberLookup/bin/Release/net8.0/linux-x64/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/lqzone/Documents/tare-project/CallerLocalizer-dotnet/PhoneNumberLookup/bin/Release/net8.0/linux-x64/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/lqzone/Documents/tare-project/CallerLocalizer-dotnet/PhoneNumberLookup/bin/Release/net8.0/linux-x64/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

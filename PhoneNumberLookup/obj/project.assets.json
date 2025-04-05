@@ -1,19 +1,19 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {
-      "Microsoft.AspNetCore.OpenApi/9.0.3": {
+    "net8.0": {
+      "Microsoft.AspNetCore.OpenApi/8.0.14": {
         "type": "package",
         "dependencies": {
-          "Microsoft.OpenApi": "1.6.17"
+          "Microsoft.OpenApi": "1.4.3"
         },
         "compile": {
-          "lib/net9.0/Microsoft.AspNetCore.OpenApi.dll": {
+          "lib/net8.0/Microsoft.AspNetCore.OpenApi.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net9.0/Microsoft.AspNetCore.OpenApi.dll": {
+          "lib/net8.0/Microsoft.AspNetCore.OpenApi.dll": {
             "related": ".xml"
           }
         },
@@ -66,12 +66,12 @@
           "Microsoft.OpenApi": "1.6.23"
         },
         "compile": {
-          "lib/net9.0/Swashbuckle.AspNetCore.Swagger.dll": {
+          "lib/net8.0/Swashbuckle.AspNetCore.Swagger.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net9.0/Swashbuckle.AspNetCore.Swagger.dll": {
+          "lib/net8.0/Swashbuckle.AspNetCore.Swagger.dll": {
             "related": ".pdb;.xml"
           }
         },
@@ -85,12 +85,12 @@
           "Swashbuckle.AspNetCore.Swagger": "8.1.0"
         },
         "compile": {
-          "lib/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+          "lib/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+          "lib/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -98,12 +98,12 @@
       "Swashbuckle.AspNetCore.SwaggerUI/8.1.0": {
         "type": "package",
         "compile": {
-          "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+          "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+          "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
             "related": ".pdb;.xml"
           }
         },
@@ -114,19 +114,18 @@
     }
   },
   "libraries": {
-    "Microsoft.AspNetCore.OpenApi/9.0.3": {
-      "sha512": "fKh0UyGMUE+lhbovMhh3g88b9bT+y2jfZIuJ8ljY7rcCaSJ9m2Qqqbh66oULFfzWE2BUAmimzTGcPcq3jXi/Ew==",
+    "Microsoft.AspNetCore.OpenApi/8.0.14": {
+      "sha512": "Sar0lozRpDmlAfzRNHtr8hC/6ImdcZMYA1JLoEaW0bmRvQdPpsN0orHYGsY+/LYS3q603ZomxsYpXj1Ow+sBTA==",
       "type": "package",
-      "path": "microsoft.aspnetcore.openapi/9.0.3",
+      "path": "microsoft.aspnetcore.openapi/8.0.14",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
-        "PACKAGE.md",
         "THIRD-PARTY-NOTICES.TXT",
-        "lib/net9.0/Microsoft.AspNetCore.OpenApi.dll",
-        "lib/net9.0/Microsoft.AspNetCore.OpenApi.xml",
-        "microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+        "lib/net8.0/Microsoft.AspNetCore.OpenApi.dll",
+        "lib/net8.0/Microsoft.AspNetCore.OpenApi.xml",
+        "microsoft.aspnetcore.openapi.8.0.14.nupkg.sha512",
         "microsoft.aspnetcore.openapi.nuspec"
       ]
     },
@@ -455,8 +454,8 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net9.0": [
-      "Microsoft.AspNetCore.OpenApi >= 9.0.3",
+    "net8.0": [
+      "Microsoft.AspNetCore.OpenApi >= 8.0.14",
       "Swashbuckle.AspNetCore >= 8.1.0"
     ]
   },
@@ -476,15 +475,14 @@
         "/Users/lqzone/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net9.0"
+        "net8.0"
       ],
       "sources": {
-        "/opt/homebrew/Cellar/dotnet/9.0.3/libexec/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -492,21 +490,15 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
-      "net9.0": {
-        "targetAlias": "net9.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
-            "version": "[9.0.3, )"
+            "version": "[8.0.14, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
@@ -532,7 +524,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.3/libexec/sdk/9.0.104/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet@8/8.0.14_1/libexec/sdk/8.0.114/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
