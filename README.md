@@ -71,7 +71,7 @@ GET /api/PhoneNumber/{phoneNumber}
 dotnet run
 ```
 
-5. 服务默认运行在 https://localhost:7020 和 http://localhost:5253
+5. 服务默认运行在 https://localhost:8081 和 http://localhost:8080
 
 ## 项目结构
 
