@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TH6kEOoO34n8TpprE5PosPk3PRyFkaxXVoumyvuXaQk=",
+  "Source": "PhoneNumberLookup",
+  "BasePath": "_content/PhoneNumberLookup",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
