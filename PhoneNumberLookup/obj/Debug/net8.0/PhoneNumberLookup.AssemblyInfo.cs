@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhoneNumberLookup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66eb124d1287133b687a138031e9c953457ccac4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdfc08257a1fb3d94aaec3612966a5dc33d1a0a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhoneNumberLookup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhoneNumberLookup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
