@@ -14,8 +14,8 @@ builder.Services.AddSingleton<IPhoneNumberService, PhoneNumberService>();
 
 var app = builder.Build();
 
-// 配置 Kestrel 监听所有 IP 地址
-//app.Urls.Add("http://*:5000");
+// 取消注释以下行以监听所有网络接口
+app.Urls.Add("http://*:8080");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
