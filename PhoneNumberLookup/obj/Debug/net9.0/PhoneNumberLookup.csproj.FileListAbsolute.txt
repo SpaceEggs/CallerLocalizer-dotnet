@@ -35,3 +35,4 @@
 /Users/lqzone/Documents/tare-project/CallerLocalizer-dotnet/PhoneNumberLookup/obj/Debug/net9.0/PhoneNumberLookup.pdb
 /Users/lqzone/Documents/tare-project/CallerLocalizer-dotnet/PhoneNumberLookup/obj/Debug/net9.0/PhoneNumberLookup.genruntimeconfig.cache
 /Users/lqzone/Documents/tare-project/CallerLocalizer-dotnet/PhoneNumberLookup/obj/Debug/net9.0/ref/PhoneNumberLookup.dll
+/Users/lqzone/Documents/tare-project/CallerLocalizer-dotnet/PhoneNumberLookup/obj/Debug/net9.0/PhoneNumberLookup.sourcelink.json
